@@ -1,6 +1,16 @@
-# Welcome to MkDocs
+# Welcome Page: Architects Learning MKDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+## Prerequisites
+* `pip install mkdocs`
+* `git clone https://github.com/frankehle/Sample-MKDocs.git`
+* `python -m venv venv`
+* `.\venv\Scripts\activate (Windows uses bat or powershell)`
+* `pip install mkdocs-material`
+* `mkdocs new .`
+* `mkdocs serve`
+
 
 ## Commands
 
