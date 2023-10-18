@@ -25,3 +25,6 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+copyright: Copyright &copy; 2023 <a href="https://github.com/frankehle/Sample-MKDocs" target="_blank" rel="noopener">Frank Who's Yo Daddy Ehle</a>
+#display a link to the repository; will be rendered next to the search bar on big screens
+repo_url: https://github.com/frankehle/Sample-MKDocs
